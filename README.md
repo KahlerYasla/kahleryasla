@@ -1,4 +1,4 @@
-### Hi there 👋
+### Why did the programmer quit his job? He didn't get arrays! 😄😄😄
 
 <!--
 **KahlerYasla/KahlerYasla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
